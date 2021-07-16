@@ -2,6 +2,9 @@
 A browser made in python!
 
 Run in steps : 
+
+
+
 [1] chmod +x setup.sh
 
 
