@@ -1,17 +1,9 @@
-# python-browser
+# Python browser
 A browser made in python!
 
-Run in steps : 
+## Steps to run
+(In linux)
 
-
-
-[1] chmod +x setup.sh
-
-
-
-
-[2]./setup.sh
-
-
-
-[3]*python3 browser.py* to open the browser
+1. `chmod +x setup.sh`
+2. `./setup.sh`
+3. `python3 Browser.py`
