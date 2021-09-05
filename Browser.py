@@ -50,6 +50,6 @@ class MainWindow(QMainWindow):
 
 
 app = QApplication(sys.argv)
-QApplication.setApplicationName('My Cool Browser')
+QApplication.setApplicationName('Py-Browser')
 window = MainWindow()
 app.exec_()
